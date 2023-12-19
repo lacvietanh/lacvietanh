@@ -8,6 +8,7 @@
 - https://akivn.net
 - https://tool.akivn.net/spleeter
 - https://akiworkflow.com
+- https://thptnghiaminh.akivn.net
 - https://cloud.akivn.net
 - https://xclass.akivn.net
 - https://sh.akivn.net

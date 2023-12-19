@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lacvietanh
-- 👀 I’m interested in ... bash, js, electronjs, nodejs, MacOS, Linux, ...
-- 🌱 I’m currently learning ... js, nodejs, electronjs, reactjs,..
+- 👀 I’m interested in ... bash, js, php, electronjs, nodejs, MacOS, Linux, ...
+- 🌱 I’m currently learning ... js, nodejs, electronjs, Firebase, Cloudflare (Worker/pages)..
 - 💞️ I’m looking to collaborate on ... bash, js
 - 📫 How to reach me ... akivn.net
 

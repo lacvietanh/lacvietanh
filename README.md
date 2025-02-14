@@ -1,18 +1,16 @@
 - 👋 Hi, I’m @lacvietanh
-- 👀 I’m interested in ... bash, js, php, electronjs, nodejs, MacOS, Linux, ...
-- 🌱 I’m currently learning ... js, nodejs, electronjs, Firebase, Cloudflare (Worker/pages)..
+- 👀 I’m interested in ... bash, js, tauri v2, electronjs, nodejs, MacOS, Linux, ...
+- 🌱 I’m currently learning ... js, nodejs, tauri v2, electronjs, Firebase, Cloudflare (Worker/pages)..
 - 💞️ I’m looking to collaborate on ... bash, js
 - 📫 How to reach me ... akivn.net
 
 ## My current development projects:
 - https://akivn.net
-- https://tool.akivn.net/spleeter
+- https://app.akivn.net
+- https://tool.akivn.net/tachnhac
 - https://akiworkflow.com
-- https://thptnghiaminh.akivn.net
 - https://cloud.akivn.net
-- https://xclass.akivn.net
-- https://sh.akivn.net
-- https://losa.akivn.net
+- https://vstshop.com
 
 
 <!---
